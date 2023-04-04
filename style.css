@@ -12,7 +12,7 @@ h3{
 }
     
 .one{
-    display:-ms-flexbox; /* IE10 */
+    display:-ms-flexbox; 
     display: flex;
     width: 100%;
     margin-bottom: 15px;
@@ -58,7 +58,7 @@ h3{
     color: blue;
 }
 .card{
-  display:-ms-flexbox; /* IE10 */
+  display:-ms-flexbox; 
   display: flex;
   width: 100%;
   margin-bottom: 15px;
@@ -85,27 +85,28 @@ h3{
   float:right;
   top: -50px;
 }
+
 .four{
   position: relative;
   top: -10px;
 }
+
 .six{
   position: relative;
- 
   top: -70px;
 }
+
 .five button {
-  background-color: #f7f7f7; /* Green background */
-  border: 1px solid rgb(0, 0, 0); /* Green border */
-  color: rgb(35, 35, 35); /* White text */
-  padding: 10px 24px; /* Some padding */
-  cursor: pointer; /* Pointer/hand icon */
+  background-color: #f7f7f7;
+  border: 1px solid rgb(0, 0, 0); 
+  color: rgb(35, 35, 35); 
+  padding: 10px 24px; 
+  cursor: pointer; 
   float:right;
 }
 
 .sty button{
-  padding: 10px 24px; /* Some padding */
+  padding: 10px 24px;
   border: 1px solid rgb(10, 10, 10);  
   top: -500px;
-
 }
